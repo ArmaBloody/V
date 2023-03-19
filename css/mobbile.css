@@ -1,0 +1,196 @@
+@media screen and (max-width:520px) {
+    .menu {
+        width: 50%;
+    }
+
+    .short-info {
+        width: 50%;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .info-con {
+        width: 100%;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .truck-container {
+        display: none;
+    }
+
+    .our-services_container {
+        margin-top: 20px;
+    }
+
+    .our-servises {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .all-info {
+        width: 80%;
+        margin-top: 20px;
+    }
+
+    .info-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rewe-image_con {
+        display: none;
+    }
+
+    .rewe-container {
+        justify-content: center;
+        margin: 0px 0px 20px 0px;
+    }
+
+    .rewivs-con {
+        width: 90%;
+    }
+
+    .hr-line {
+        width: 100%;
+        display: block;
+        height: 2px;
+        background-color: #888888;
+        margin: 30px 0px 30px 0px;
+
+    }
+
+    .deliver-methods {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .metods {
+        width: 80%;
+        margin: 20px 0px 20px 0px;
+    }
+
+    .prewews-container {
+        display: block;
+        padding: 30px 0px 30px 0px
+    }
+
+    .item {
+        border: none;
+        margin-top: 10px;
+    }
+
+    .footer-container {
+        width: 80%;
+        display: block;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .menu {
+        width: 50%;
+    }
+
+    .short-info {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info-con {
+        width: 70%;
+        padding: 10px 0px 10px 0px;
+    }
+
+    .truck-container {
+        display: none;
+    }
+
+    .our-services_container {
+        margin-top: 20px;
+    }
+
+    .our-servises {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .all-info {
+        width: 80%;
+        margin-top: 20px;
+    }
+
+    .info-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rewe-image_con {
+        display: none;
+    }
+
+    .rewe-container {
+        justify-content: center;
+        margin: 0px 0px 20px 0px;
+    }
+
+    .rewivs-con {
+        width: 90%;
+    }
+
+    .hr-line {
+        width: 100%;
+        display: block;
+        height: 2px;
+        background-color: #888888;
+        margin: 30px 0px 30px 0px;
+
+    }
+
+    .deliver-methods {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .metods {
+        width: 80%;
+        margin: 20px 0px 20px 0px;
+    }
+
+    .prewews-container {
+        display: block;
+        padding: 30px 0px 30px 0px
+    }
+
+    .item {
+        border: none;
+        margin-top: 10px;
+    }
+
+    .footer-container {
+        width: 80%;
+        display: block;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .menu ul li a {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+
+    .menu ul {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .num-flag img {
+        display: none;
+    }
+
+    .number {
+        font-size: 14px;
+    }
+}

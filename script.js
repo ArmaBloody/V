@@ -3,14 +3,7 @@ $(document).ready(function () {
         $('.burger-menu,.menu').toggleClass('active')
         $('body').toggleClass('lock')
     });
-    $(document).click('on', function (e) {
-        var box = $('.burger-menu , .menu ');
-        if (!box.is(e.target) && box.has(e.target).
-            length === 0) {
-            box.removeClass('active');
-            box.removeClass('lock');
-        }
-    });
+
     $('a[href*="#"]').click(function (klik) {
         var knopk = $('.burger-menu , .menu , body');
         knopk.removeClass('active');
